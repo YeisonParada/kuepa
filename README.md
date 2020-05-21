@@ -18,11 +18,11 @@ copy .env.example .env
 5. Generar un llave para el proyecto
 php artisan key:generate
 
-6 Ejecutar migraciones y sedeer
+6. Ejecutar migraciones y sedeer
 php artisan migrate --seed
 
 ## Nota:
 
 El usuario administrador de la aplicación es el siguiente:
-Usuario: administrador@kuepa.com
-Contraseña: Kuepa2020*
+ - Usuario: administrador@kuepa.com
+ - Contraseña: Kuepa2020*
